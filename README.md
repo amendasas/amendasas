@@ -1,21 +1,23 @@
 <img align="right" alt="Cachorrinho" height="250" src="https://github.com/amendasas/amendasas/blob/main/cachorrinho-github.png">
 
-# Amanda Paulino
+<h1>
+     <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
+    <span>Amanda Paulino</span>
+</h1>
 
-Estudante de Engenharia de Computação e desenvolvedora apaixonada por transformar ideias em soluções digitais. Atualmente, foco em tecnologias como **React.js** e **React Native** criando projetos que unem aprendizado e inovação.  
-
-Apaixonada por tecnologia e desafios, alguns dos meus hobbies incluem explorar novas ferramentas, jogar e criar projetos práticos que resolvem problemas do dia a dia.  
+Hello! I am a Computer Engineering student with an interest in web and mobile development. I am always eager to learn new technologies and create solutions that make everyday life more practical and efficient.  
+Passionate about listening to calm music and watching Star Trek, which inspires me to explore innovative possibilities for the future.
 
 ---
 
-## 🌐 **Conecte-se comigo**  
+## **Conecte-se comigo**  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0096FF)](https://www.linkedin.com/in/amanda-paulino-469aa0316/)  
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0096FF)](https://www.instagram.com/amendasas/)  
 
 ---
 
-## 📊 **GitHub Stats**  
+## **GitHub Stats**  
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=seuusuario&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0096FF&text_color=FFF&border_radius=3&border_color=1B4F72&icon_color=0096FF&theme=jolly)  
 
