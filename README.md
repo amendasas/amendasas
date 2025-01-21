@@ -1,7 +1,7 @@
 <img align="right" alt="Cachorrinho" height="250" src="https://github.com/amendasas/amendasas/blob/main/cachorrinho-github.png">
 
 <h1>
-     <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
+     <img align="center" alt="" width="36px" src="https://github.com/amendasas/amendasas/blob/main/lua.png"></a>
     <span>Amanda Paulino</span>
 </h1>
 
