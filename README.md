@@ -2,7 +2,7 @@
 
 <h1>
      <img align="center" alt="" width="36px" src="https://github.com/amendasas/amendasas/blob/main/lua.png"></a>
-    <span> Amanda Paulino</span>
+    <span>  Amanda Paulino</span>
 </h1>
 
 
