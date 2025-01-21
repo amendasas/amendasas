@@ -20,11 +20,6 @@ Passionate about listening to calm music and watching Star Trek, which inspires 
 
 
 <details align="left">
-  <summary></summary> 
- 
-  - Badges by <a href="https://shields.io/">shields.io</a><br>
-  - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>
-
       <div align="right">Made with 💙 by <a href="https://github.com/amendasas">AP</a>.</div>
   
    </details>
