@@ -1,4 +1,4 @@
-<img align="right" alt="Cachorrinho" height="250" src="https://github.com/amendasas/amendasas/blob/main/cachorrinho-github.png">
+<img align="right" alt="Cachorrinho" height="280" src="https://github.com/amendasas/amendasas/blob/main/cachorrinho-github.png">
 
 <h1>
      <img align="center" alt="" width="36px" src="https://github.com/amendasas/amendasas/blob/main/lua.png"></a>
