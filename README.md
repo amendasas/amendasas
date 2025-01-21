@@ -1,4 +1,4 @@
-<img align="right" alt="Cachorrinho" height="380" src="https://github.com/amendasas/amendasas/blob/main/cachorrinho-github.png">
+<img align="right" alt="Cachorrinho" height="250" src="https://github.com/amendasas/amendasas/blob/main/cachorrinho-github.png">
 
 # Amanda Paulino
 
