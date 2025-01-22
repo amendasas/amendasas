@@ -11,8 +11,7 @@ Hello! I am a Computer Engineering student with an interest in web and mobile de
 Passionate about listening to calm music and watching Star Trek, which inspires me to explore innovative possibilities for the future.
 
 
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2685AE&width=435&lines=Connect+with+me)](https://git.io/typing-svg)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0096FF)](https://www.linkedin.com/in/amanda-paulino-469aa0316/) [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0096FF)](https://www.instagram.com/amendasas/)  
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2685AE&width=435&lines=Connect+with+me)](https://git.io/typing-svg) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0096FF)](https://www.linkedin.com/in/amanda-paulino-469aa0316/) [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0096FF)](https://www.instagram.com/amendasas/)  
 
 ### GitHub Stats
 
