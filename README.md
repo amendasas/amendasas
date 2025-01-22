@@ -18,7 +18,7 @@ Passionate about listening to calm music and watching Star Trek, which inspires 
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amendasas&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0096FF&text_color=FFF&border_radius=3&border_color=1B4F72&icon_color=0096FF&theme=jolly)
 
-<div align="center">
+<div>
 ![HTML](https://img.shields.io/badge/HTML-FF6347?style=flat-square&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-0077B5?style=flat-square&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
