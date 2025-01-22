@@ -11,7 +11,7 @@ Hello! I am a Computer Engineering student with an interest in web and mobile de
 Passionate about listening to calm music and watching Star Trek, which inspires me to explore innovative possibilities for the future.
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2685AE&width=435&lines=Connect+with+me)](https://git.io/typing-svg) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0096FF)](https://www.linkedin.com/in/amanda-paulino-469aa0316/) [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0096FF)](https://www.instagram.com/amendasas/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0096FF)](https://www.linkedin.com/in/amanda-paulino-469aa0316/) [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0096FF)](https://www.instagram.com/amendasas/)  [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=0096FF)](https://mail.google.com/mail/u/1/?pli=1#inbox)
 
 
 ### GitHub Stats
@@ -19,7 +19,7 @@ Passionate about listening to calm music and watching Star Trek, which inspires 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amendasas&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0096FF&text_color=FFF&border_radius=3&border_color=1B4F72&icon_color=0096FF&theme=jolly)
 
 ### Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
