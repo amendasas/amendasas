@@ -10,9 +10,7 @@
 Hello! I am a Computer Engineering student with an interest in web and mobile development. I am always eager to learn new technologies and create solutions that make everyday life more practical and efficient.  
 Passionate about listening to calm music and watching Star Trek, which inspires me to explore innovative possibilities for the future.
 
-<div>
-     
-</div>
+-
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2685AE&width=435&lines=Connect+with+me)](https://git.io/typing-svg)
 
