@@ -13,11 +13,7 @@ Passionate about listening to calm music and watching Star Trek, which inspires 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2685AE&width=435&lines=Connect+with+me)](https://git.io/typing-svg) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0096FF)](https://www.linkedin.com/in/amanda-paulino-469aa0316/) [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0096FF)](https://www.instagram.com/amendasas/)  
 
-- ![HTML](https://img.shields.io/badge/HTML-FF6347?style=flat-square&logo=html5&logoColor=white) 
-- ![CSS](https://img.shields.io/badge/CSS-0077B5?style=flat-square&logo=css3&logoColor=white) 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-- ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-FF6347?style=flat-square&logo=html5&logoColor=blue) ![CSS](https://img.shields.io/badge/CSS-0077B5?style=flat-square&logo=css3&logoColor=blue) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=blue)![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=blue)![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=blue)
 
 
 ### GitHub Stats
