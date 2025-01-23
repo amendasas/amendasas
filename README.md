@@ -15,11 +15,8 @@ Passionate about listening to calm music and watching Star Trek, which inspires 
 
 ### My Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-       [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,angular)](https://skillicons.dev)
+  
 
 ### GitHub Stats
 
