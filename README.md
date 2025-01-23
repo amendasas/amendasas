@@ -21,4 +21,9 @@ Passionate about listening to calm music and watching Star Trek, which inspires 
 
 <div align="right" align="right">Made with 💙 by <a href="https://github.com/amendasas">AP</a>.</div>
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,c,git&perline=3)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c&perline=3" />
+  </a>
+</p>
