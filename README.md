@@ -24,6 +24,6 @@ Passionate about listening to calm music and watching Star Trek, which inspires 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,js,git=3" />
+    <img src="https://skillicons.dev/icons?i=react,js,git&perline=3" />
   </a>
 </p>
