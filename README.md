@@ -18,10 +18,5 @@ Passionate about listening to calm music and watching Star Trek, which inspires 
 
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amendasas&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=0096FF&text_color=FFF&border_radius=3&border_color=1B4F72&icon_color=0096FF&theme=jolly)
 
-### Technologies
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-
 <div align="right" align="right">Made with 💙 by <a href="https://github.com/amendasas">AP</a>.</div>
   
