@@ -13,9 +13,9 @@ Passionate about listening to calm music and watching Star Trek, which inspires 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2685AE&width=435&lines=Connect+with+me)](https://git.io/typing-svg) 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0096FF)](https://www.linkedin.com/in/amanda-paulino-469aa0316/) [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0096FF)](https://www.instagram.com/amendasas/)  [![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=gmail&logoColor=0096FF)](https://accounts.google.com/AccountChooser/signinchooser?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&flowName=GlifWebSignIn&flowEntry=AccountChooser&ec=asw-gmail-globalnav-signin&ddm=1)
 
-### My Skills
 
 <p align="center">
+     <h1>My Skills</h1>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,git,c,java" />
   </a>
