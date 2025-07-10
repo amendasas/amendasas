@@ -16,4 +16,4 @@ Passionate about listening to calm music and watching Star Trek, which inspires 
 
 ### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=amendasas&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amendasas&show_icons=true&theme=tokyonight)
