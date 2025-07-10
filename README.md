@@ -16,4 +16,4 @@ Passionate about listening to calm music and watching Star Trek, which inspires 
 
 ### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amendasas)](https://github.com/amendasas/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=amendasas&show_icons=true&theme=radical)
